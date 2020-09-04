@@ -1,4 +1,4 @@
-# Smart-Calculator
+# Smart Calculator
 A simple mathematical expression calculator that supports +, -, *, / , ^.
 https://hyperskill.org/projects/74
 
